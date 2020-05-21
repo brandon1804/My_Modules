@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="B216">B216 Marketing</string>
+    <string name="C346">C346 Android Programming</string>
+    <string name="C203">C203 Web Appln Development in php</string>
+    <string name="C206">C206 Software Development Process</string>
+    <string name="C235">C235 IT Security and Management</string>
+    <string name="MB216">Module Name: Marketing</string>
+    <string name="MC346">Module Name: Android Programming</string>
+    <string name="MC203">Module Name: Web Appln Development in php</string>
+    <string name="MC206">Module Name: Software Development Process</string>
+    <string name="MC235">Module Name: IT Security and Management</string>
+    <string name="MCCB216">Module Code: B216</string>
+    <string name="MCCC346">Module Code: C346</string>
+    <string name="MCCC203">Module Code: C203</string>
+    <string name="MCCC206">Module Code: C206</string>
+    <string name="MCCC235">Module Code: C235</string>
+    <string name="aY">Academic Year: 2020</string>
+    <string name="sE">Semester: 1</string>
+    <string name="mC">Module Credit: 4</string>
+    <string name="vE">Venue: W66M</string>
+    <string name="gB">Go Back To Main Page</string>
+</resources>
